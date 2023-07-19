@@ -1,4 +1,4 @@
-#Шпаргалка-гайд: GitHub, GitBash, MarkDown
+# Шпаргалка-гайд: GitHub, GitBash, MarkDown
 
 ____
 
